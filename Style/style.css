@@ -69,7 +69,7 @@ header p{
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 30px; /*Alteração para celulares com imagem muito pequena. */
+    padding-bottom: 40px; /*Alteração para celulares com imagem muito pequena. */
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.252);
     
 }
